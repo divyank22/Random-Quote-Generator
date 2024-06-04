@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.eventtriggerd {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container{
+  border: solid black 5px;
+  margin:  4vw 30vw;
+  border-radius: 5%;
+}
